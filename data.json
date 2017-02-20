@@ -8,7 +8,7 @@
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"https://www.eventbrite.co.uk/e/brainhack-global-2017-cambridge-tickets-27485125751",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
-  "project_submit_link":"http://brainhack.org/submit-project/",
+  "project_submit_link":"http://events.brainhack.org/global2017/projects.html",
   "title_photo_link":"https://commons.wikimedia.org/wiki/File:ClareCollegeAndKingsChapel.jpg",
   "title_photo_author": "Wikipedia",
   "services":[{
@@ -69,12 +69,18 @@
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9781.285336942767!2d0.1163891!3d52.2012078!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x51e7972ae1c796d!2sUniversity+Centre!5e0!3m2!1sen!2suk!4v1487253033137",
     "sponsors": [{"name": "Wellcome Trust",
                   "url": "https://wellcome.ac.uk/",
-                  "logo":"https://raw.githubusercontent.com/KirstieJane/cambrainhack2017.github.io/master/img/wellcome.jpg"},
+                  "logo":"img/wellcome-logo-black.png"},
                  {"name": "Mozilla Science Lab",
                   "url": "https://science.mozilla.org/",
                   "logo":"https://bolarampaul.files.wordpress.com/2015/07/f21c4-mozilla-science-lab-logo.png"},
                   {"name": "Overleaf",
                    "url": "https://www.overleaf.com",
-                   "logo":"img/Overleaf-logo-300dpi.png"}],
-    "organizers": ["Kirstie Whitaker (chair)", "Matilde Vaghi", "Rezvan Farahibozorg", "Hilde Taverne", "Amber Ruigrok", "Richard Bethlehem", "Owen Parsons", "Jan Freyberg"]
+                   "logo":"img/Overleaf-logo-300dpi.png"},
+                   {"name": "Cognition and Brain Sciences Unit",
+                    "url": "http://www.mrc-cbu.cam.ac.uk/",
+                    "logo":"img/mrclogo.gif"}],
+    "organizers": ["Kirstie Whitaker (chair)", "Matilde Vaghi",
+                   "Rezvan Farahibozorg", "Hilde Taverne",
+                   "Amber Ruigrok", "Richard Bethlehem",
+                   "Owen Parsons", "Jan Freyberg"]
 }
